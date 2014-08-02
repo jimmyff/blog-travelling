@@ -1,0 +1,16 @@
+{
+  "name": "Jekyll 2 Starter",
+  "description": "Jekyll is a simple, blog-aware, static site generator. Think of it like a file-based CMS, without all the complexity.",
+  "keywords": [
+    "static",
+    "ruby",
+    "blog"
+  ],
+  "website": "http://jekyllrb.com/",
+  "logo": "http://www.proxygear.com/images/posts/jekyll.png",
+  "repository": "https://github.com/jekyll/jekyll",
+  "addons": [],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/mattmanning/heroku-buildpack-ruby-jekyll"
+  }
+}

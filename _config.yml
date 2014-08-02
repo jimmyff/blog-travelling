@@ -1,0 +1,31 @@
+title: Travelling Adventures
+tagline: A travel blog by Jimmy & Neil
+description: Posts from our trips
+url: http://localhost:7891/travelling/_site
+baseurl: /travelling/_site
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+
+
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:       Europe/London
+future:         true
+highlighter:    true
+markdown:       kramdown
+
+sass:
+    sass_dir: _sass
+#    style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:year-:month-:day-:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
