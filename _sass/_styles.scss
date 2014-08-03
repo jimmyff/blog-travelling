@@ -253,7 +253,6 @@ header.site-header nav {
     margin-left: 20px; 
     a {
 
-		/*background-color: transparentize($black, 0.3); */
         color: white;
         @include transit(all, .2s, ease);
         &:hover {
@@ -261,14 +260,12 @@ header.site-header nav {
             @include transit(all, .2s, ease);
         }
 	  &:active {
-		background-color: $link;
 		color: $white;
 		text-shadow: none;
 	  }
 	  &:hover {
 		text-shadow: none;
 		color: $white;
-		background-color: $link;
 	  }
     } 
   }
@@ -278,14 +275,6 @@ header.site-header nav {
 /* Article Stuff */
 
 
-.menu-open .article .featured-image div.inner {
-	background-color: transparentize($black, 0.15);
-}
-.header-dark.menu-open .article .featured-image div.inner {
-
-  background-color: transparentize($white, 0.15);
-}
-   
 .article {
     position: relative;
     margin-bottom: $lh;
@@ -815,7 +804,14 @@ footer {
     width: 100%;
     padding-right: 0;
   }
-  
+
+  .menu-open .article .featured-image div.inner {
+	background-color: transparentize($black, 0.15);
+  }
+  .header-dark.menu-open .article .featured-image div.inner {
+	background-color: transparentize($white, 0.15);
+  }
+
   header.site-header nav:before {
     display: table;
     clear: both;
@@ -848,6 +844,7 @@ footer {
       color: white;  
     }
     &:hover {
+	  background-color: $link;
         text-shadow: none;
     }
   }
