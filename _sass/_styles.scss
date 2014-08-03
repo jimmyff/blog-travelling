@@ -252,12 +252,24 @@ header.site-header nav {
     position: relative;
     margin-left: 20px; 
     a {
+
+		/*background-color: transparentize($black, 0.3); */
         color: white;
         @include transit(all, .2s, ease);
         &:hover {
             @include tshd(0, 0, 3px, rgba(255,255,255,.6));
             @include transit(all, .2s, ease);
         }
+	  &:active {
+		background-color: $link;
+		color: $white;
+		text-shadow: none;
+	  }
+	  &:hover {
+		text-shadow: none;
+		color: $white;
+		background-color: $link;
+	  }
     } 
   }
 }
@@ -265,6 +277,14 @@ header.site-header nav {
 
 /* Article Stuff */
 
+
+.menu-open .article .featured-image div.inner {
+	background-color: transparentize($black, 0.15);
+}
+.header-dark.menu-open .article .featured-image div.inner {
+
+  background-color: transparentize($white, 0.15);
+}
    
 .article {
     position: relative;
@@ -310,11 +330,25 @@ header.site-header nav {
         position: relative;
         top: 0;
         z-index: -1;
-	  	border-bottom:1px solid #222;
+	  	border-bottom:2px solid #fff;
         img {
             max-height: 800px;
         }
+	  	div.inner {
+		  position:absolute;
+		  top:0;
+		  left:0;
+		  right:0;
+		  bottom:0;
+
+		  -moz-transition: all 0.2s ease-in;
+		  -webkit-transition: all 0.2s ease-in;
+		  -o-transition: all 0.2s ease-in;
+		  
+		  transition: all 0.2s ease-in;
+		}
     }
+  
     
     // Header Stuff
     header {
@@ -723,6 +757,9 @@ footer {
     }
     
     }
+  .site-header h1 a {
+	font-size:20px;
+  }
 }
 
 @media only screen and (max-width : 680px) {
@@ -814,17 +851,20 @@ footer {
         text-shadow: none;
     }
   }
-  
-  .darken nav ul {
+
+  header.site-header.darken nav ul {
           padding: 0;
           margin-top: 40px;
-          background: $black;
+		
       }
-      
-  .darken nav ul li a {
-        color: $white;
+
+  header.site-header.darken nav ul li a {
+	color: $black;
+	/*background-color: transparentize($white, 0.3); */
         &:active {
           background-color: $link;
+		  color: $white;
+		  text-shadow: none;
         }
         &:hover {
             text-shadow: none;

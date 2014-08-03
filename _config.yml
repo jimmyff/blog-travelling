@@ -2,8 +2,12 @@ title: Travelling Adventures
 tagline: A travel blog by Jimmy & Neil
 description: Posts from our trips
 url: http://www.travellingadventures.co.uk
-#baseurl: /travelling/_site
 baseurl: 
+
+#local settings:
+#url: http://localhost:7891
+#baseurl: /travelling/_site
+
 
 # Links to include in top navigation
 # For external links add external: true

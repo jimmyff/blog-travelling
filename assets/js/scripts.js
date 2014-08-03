@@ -1,6 +1,14 @@
 $(document).ready(function() {
   $('a.menu').click(function() {
-    $('.site-header nav').slideToggle(100);
+	if ($('body').hasClass('menu-open')) {
+		$('.site-header nav').fadeOut(500, function () {
+
+			$('body').removeClass('menu-open');
+		});
+	} else {
+		$('body').addClass('menu-open');
+		$('.site-header nav').fadeIn(250);
+	}
     return false;
   });
 
@@ -28,7 +36,7 @@ $(function(){
       return imgUrl;
   }).load(function(){
     $('img.loading').fadeOut(500);
-    $('div.overlay').fadeTo("slow", 0.6);
+    $('div.overlay').fadeTo("slow", 0.8);
   });
 });
 
