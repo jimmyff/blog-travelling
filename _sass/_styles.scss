@@ -127,6 +127,14 @@ input {
     }
 }
 
+.social-buttons {
+  position:absolute;
+  right:0;
+  margin-top:5vw;
+  margin-right:5vw;
+  
+}
+
 /* Variables and Building Blocks */
 
 .icons {
@@ -561,13 +569,22 @@ header.site-header nav {
             margin-bottom: 0;
             }
         } 
-    }  
-    
+    }
+
+  	.share-buttons {
+		text-align: center;
+	  color: $grey-light;
+		padding: 1em 0;
+	  font-size: $fs5;
+	  font-family: $sans;
+	  font-weight: bold;
+	  line-height:200%;
+ 	}
+  
     .share {
         text-align: center;
-        display: block;
+        display: inline-block;
         margin: 0 auto;
-        width: 76px;
         font-size: $fs5;
         font-family: $sans;
         text-transform: uppercase;
@@ -575,6 +592,7 @@ header.site-header nav {
         letter-spacing: 1px;
         padding: 4px 6px 4px 6px;
         color: $grey-light;
+	  	line-height:100%;
         border: 2px solid transparentize($grey-light,.3);
         @include br(4px);
         &:hover {

@@ -14,6 +14,7 @@
 
 {% endif %}
 
+	<div class="social-buttons"><div class="g-plusone" data-annotation="none"></div></div>
 
       <article class="wrap post">
         <header class="post-header">
@@ -58,10 +59,13 @@
 	<div class="wrap post" style="min-height: 0;">
 
 
-
-		<a class="share" href="https://twitter.com/intent/tweet?text=&quot;{{ page.title }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.owner.twitter }}" data-dnt="true">Share</a>
-		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
+		<div class="share-buttons">Share this page:<br />
+			<a class="share" href="https://twitter.com/intent/tweet?text=&quot;{{ page.title }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.owner.twitter }}" data-dnt="true">Tweet</a>&nbsp;<a 
+					class="share" href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" data-dnt="true">facebook</a>&nbsp;<a 
+					class="share" href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" data-dnt="true">Google+</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</div>
+		
 		{% if page.comments %}
 		<aside class="disqus">
 			<div id="disqus_thread"></div>
