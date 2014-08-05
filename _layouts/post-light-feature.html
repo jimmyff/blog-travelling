@@ -28,9 +28,30 @@
 
 	  </article>
 
-	{% if page.flickr_embed %}
-	<iframe class="flickr" src="{{ page.flickr_embed }}" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+	{% if page.flickr_set %}
 
+	<!-- <iframe class="flickr" src="{{ page.flickr_embed }}" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe> -->
+
+	<div id="gallery" class="image-gallery"></div>
+
+	<script>
+
+		// Load the classic theme
+		Galleria.loadTheme('{{ site.baseurl }}/assets/galleria/themes/azur/galleria.azur.min.js');
+
+		// Initialize Galleria
+		Galleria.run('#gallery', {
+
+
+			flickr: 'set:{{ page.flickr_set }}',
+			flickrOptions: {
+				sort: 'date-posted-asc',
+				max: 200,
+				imageSize: 'large'
+			}
+		});
+
+	</script>
 	{% endif %}
 
 
@@ -63,6 +84,7 @@
 	</div>
 
 
+</section>
 </section>
 
 
