@@ -4,6 +4,8 @@ title: "2010 - 2011 Adventure"
 permalink: /adventure-2010-2011/
 ---
 
+This was a 6 month trip during 2010 - 2011, we travelled through South East Asia, up the East Coast of Australia and back through SE Asia.
+
 ## Travel map
 
 Below is our travel map showing the dates and method of transport. We'll be updating this as the trip progresses. Click on a pin to see more detail. [View the map on Google Maps](http://www.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=105326598424274706322.0004962a924ac3908d82c&amp;ll=7.527568,74.377442&amp;spn=90,153.676757&amp;source=embed)
