@@ -12,6 +12,7 @@ tags:
   - "ho-chi-minh-city"
   - "vietnam"
 date:   2010-12-29 12:30
+picasa_album: Blog20101229
 ---
 Hey all! We left Phu Quoc at 8.45am on Christmas Eve and after a full day travelling we arrived in Phnom Penh, the capital of Cambodia, at 7.15pm. The journey was long and we were shattered when we arrived but the journey was fine (they played King Kong followed by Vietnam Idol on the TV - Jimmy was engrossed in his current read ‘The Girl with the Dragon Tattoo’ the whole way) and the border crossing in to Cambodia was easy and hassle free (it was a nightmare when we entered Cambodia from Thailand in 2006 so it was a pleasant surprise). After arriving we got a Tuk-Tuk to our boutique hotel (we treated ourselves for Christmas) and then we went to a local restaurant for some dinner. Ordering our food proved very tricky as none of the staff spoke English but we had a gorgeous meal with a couple of Angkor beers each and it only cost us $6! Bargain!
 

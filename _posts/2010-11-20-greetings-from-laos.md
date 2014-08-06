@@ -13,6 +13,7 @@ tags:
   - "mekong"
   - "pak-beng"
 date:   2010-11-20 15:48
+picasa_album: Blog20101120
 ---
 So we’re in Luang Prabang! We traveled from Chiang Rai to the Thai border town Chiang Kong and got a taxi boat across the Mekong to the Laos boarder town Huay Xai. From there we embarked on our 2 day(!) boat journey East along the Mekong river. We’d heard horror stories about the journey & overnight stop (Pak Beng) but on both accounts we were pleasantly surprised. The ‘slow boat’ was actually really cool with great views; the Mekong winds through a maze of mountains dense with jungle. The seats were wooden so we bought cushions from a street seller which helped a lot although we still had very numb bums! 
 

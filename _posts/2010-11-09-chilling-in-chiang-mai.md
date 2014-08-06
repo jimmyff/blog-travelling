@@ -9,6 +9,7 @@ tags:
   - "chiang-mai"
   - ranong
 date:   2010-11-09 17:56
+picasa_album: Blog20101109
 ---
 Hey all,
 

@@ -9,6 +9,7 @@ tags:
   - "vang-vieng"
   - "vientiane"
 date:   2010-12-05 11:46
+picasa_album: Blog20101205
 ---
 Hey all,
 

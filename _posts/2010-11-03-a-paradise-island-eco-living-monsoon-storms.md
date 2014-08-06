@@ -8,6 +8,7 @@ tags:
   - "ko-phayam"
   - ranong
 date:   2010-11-03 15:54
+picasa_album: Blog20101103
 ---
 Hey all!
 

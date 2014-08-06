@@ -9,6 +9,7 @@ tags:
   - "vang-vieng"
   - "vientiane"
 date:   2010-11-28 14:42
+picasa_album: Blog20101128
 ---
 Hey from Vientiane; the capital city of Laos! We arrived here on Wednesday 24th November and it’s our final night in Laos :(
 

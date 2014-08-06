@@ -9,6 +9,7 @@ tags:
   - "hue"
   - "nha-trang"
 date:   2010-12-14 13:05
+picasa_album: Blog20101214
 ---
 Hey all! 
 

@@ -9,6 +9,7 @@ tags:
   - "sihanoukville"
 
 date:   2011-01-04 4:36
+picasa_album: Blog20110104
 ---
 We’ve found paradise. It’s an island called Koh Rong Saloem, a southern island off Cambodia. We’ve spent 5 nights here and it’s been incredible. The beach runs for around 300 meters and is enclosed in a U-shape bay (like Maya Bay aka ‘The Beach’ only without the hundreds of boats & tourists). The sand is white and totally powdery. The water is crystal clear (around 7 meters visibility) and is luke warm so perfect for swimming & cooling down. At each side of the bay there are rich coral reefs with tropical fish and even little sharks. The island faces south and the sun drops in to the sea each night so the sunsets are spectacular. At night the sky lights up with the most impressive display of stars we’ve ever seen. Of all the beaches we’ve visited during our current & previous travels this one is the nicest by a mile - it’s just perfect, and it’s totally undiscovered in terms of mass-tourism.
 

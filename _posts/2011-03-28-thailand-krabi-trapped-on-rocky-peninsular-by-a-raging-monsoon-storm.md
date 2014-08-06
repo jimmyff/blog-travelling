@@ -11,6 +11,7 @@ tags:
 
 post_author: Neil
 date:   2011-03-28 14:10
+picasa_album: Blog20110328
 ---
 We arrived in Bangkok at 11.30pm on 21st March 2011 after a 17 hour journey from Cairns (for those who don’t know we had to cancel our trip to Japan due to recent events). By the time we arrived we were absolutely shattered so we treated ourselves to a taxi to our hotel in Phayathai (close to Siam - our favourite area of Bangkok). The next morning we were up early so we headed straight to the Siam area for some retail therapy; we both bought a couple of tops and Jimmy bought himself a new ring. We went to a sushi restaurant for lunch so we could have a taste of Japan (we’d been looking forward to munching sushi every day had we gone to Japan) and we went to a Thai restaurant for dinner. It was great to go out for the day and not worry about money; whilst we were in Australia we couldn’t afford to eat out (apart from at Subway, McDonald’s & Burger King) so it was a very welcome change! We also saw loads of TV crews interviewing a lady at the cinema complex in the Siam Paragon Centre so we papped her. We reckon she’s a famous Thai actress!
 

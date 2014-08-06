@@ -9,6 +9,7 @@ tags:
   - "penang"
 
 date:   2011-01-30 16:34
+picasa_album: Blog20110130
 ---
 We arrived in Pulau Penang on 22nd January after a boat journey from Pulau Langkawi. We checked in to our room (which resembled a cell as it had no window & smelt distinctly musty) at New Banana Guest House and then we went for a stroll around nearby Little India and Chinatown. There were hawker food stalls everywhere and delicious smells filled the air so we munched on samosas, Indian sweets (from a great place called Mr Sweets) and other delicacies as we walked around. Penang is known as the ‘food capital of South East Asia’ and we could immediately see why. The food smells were coupled with the smell of incense burning and Indian pop music was blasting from all the stalls and shops. We had dinner at a restaurant in Little India which consisted of a cheese roti, chicken tikka masala, daal, tandoori chicken, a naan, rice and a mango lassi each and it only cost £6. It was amazing!
 

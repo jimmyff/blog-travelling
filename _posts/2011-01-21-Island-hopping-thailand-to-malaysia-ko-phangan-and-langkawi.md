@@ -13,6 +13,7 @@ tags:
   - "thailand"
 
 date:   2011-01-21 15:44
+picasa_album: Blog20110121
 ---
 Selamat tengah hari from Malaysia! Well we’ve been beach bums since our last update. Ko Phangan was really beautiful, we stayed on Bottle Beach which was just gorgeous. It’s a very quiet little bay at the very top of the island and supposedly inaccessible by land so we arrived via taxi boat. There are 4 resorts on the beach, we stayed at Bottle Beach 1 and had a great little bungalow right on the beach front (see photo - to the right of the sign). The beach was very idyllic and we had a lovely time lounging about & relaxing. We stayed for 3 nights and despite it being quite cloudy (with one big storm), it was still really nice (just an excuse to play some more backgammon!).
 

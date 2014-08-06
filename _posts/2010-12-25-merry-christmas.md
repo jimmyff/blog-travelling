@@ -9,6 +9,7 @@ tags:
   - "phu-quoc"
   - "Vietnam"
 date:   2010-12-25 7:47
+picasa_album: Blog20101225
 ---
 Merry Christmas to you all!
 

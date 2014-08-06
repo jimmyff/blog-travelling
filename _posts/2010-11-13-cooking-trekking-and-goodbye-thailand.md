@@ -8,6 +8,7 @@ tags:
   - "chiang-mai"
   - "chiang-rai"
 date:   2010-11-13 15:50
+picasa_album: Blog20101113
 ---
 Hey everyone!
 
