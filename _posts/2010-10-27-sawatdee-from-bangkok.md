@@ -7,6 +7,8 @@ tags:
   - thailand
   - bangkok
 date:   2010-10-07 12:51
+
+picasa_album: BlogSawatdeeFromBangkok
 ---
 
 ‘Sawatdee’ (Hello) from Bangkok!! It’s our third night in Thailand and we’re lovin’ it!!

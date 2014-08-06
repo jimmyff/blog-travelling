@@ -43,10 +43,20 @@
 
 <!-- Load Modernizr -->
 	<script src="{{ site.baseurl }}/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
-	
-	<script src="{{ site.baseurl }}/assets/galleria/galleria-1.3.6.min.js"></script>
-	<script src="{{ site.baseurl }}/assets/galleria/plugins/flickr/galleria.flickr.min.js"></script>
 
+	{% if page.flickr_set or page.picasa_album %}
+	<script src="{{ site.baseurl }}/assets/galleria/galleria-1.3.6.min.js"></script>
+
+	{% if page.flickr_set %}
+	<script src="{{ site.baseurl }}/assets/galleria/plugins/flickr/galleria.flickr.min.js"></script>
+	{% endif %}
+	
+	{% if page.picasa_album %}
+	<script src="{{ site.baseurl }}/assets/galleria/plugins/picasa/galleria.picasa.min.js"></script>
+	{% endif %}
+	
+	{% endif %}
+	
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
